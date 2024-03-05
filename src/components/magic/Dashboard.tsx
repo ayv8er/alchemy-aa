@@ -1,6 +1,6 @@
 import React from 'react';
 import WalletMethods from './cards/WalletMethodsCard';
-import SendAaTransaction from './cards/SendAATransactionCard';
+import SendAaTransaction from './cards/SendAaTransactionCard';
 import SendEoaTransaction from './cards/SendEoaTransactionCard';
 import Spacer from '@/components/ui/Spacer';
 import { LoginProps } from '@/utils/types';
